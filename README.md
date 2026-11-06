@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Iuri 👋
 
-<!--
-**Yurispker/yurispker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a transitioning operations professional with over 6 years of leadership and logistics experience, now combining real-world warehouse domain expertise with software development. 
 
-Here are some ideas to get you started:
+I'm currently building a full-stack WMS web application and solving practical operational challenges through code, studying via CS50x and the Tech Educators Digital Innovator course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages & Frameworks:** C#, JavaScript, React, HTML5, CSS3
+* **APIs & Data:** RESTful APIs, SQL, Google Apps Script, VBA
+* **Workflow & Version Control:** Git, GitHub
+
+### 🚀 Featured Project
+* **TabulaWMS Web App (C# & React):** A Warehouse Management System web application designed to streamline stock movement, order tracking, and inventory logic.
+
+### 📫 Let's Connect
+* **LinkedIn:** https://www.linkedin.com/in/iurisantos94
+* **Email:** yurispker@gmail.com
